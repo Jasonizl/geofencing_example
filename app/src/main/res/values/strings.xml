@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geofencing_Application</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Buttons -->
+
+    <!-- Errors -->
+    <string name="not_connected">GoogleApiClient no yet connected. Try again.</string>
+
+    <!-- Transition type strings -->
+
+</resources>
